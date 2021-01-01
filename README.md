@@ -16,3 +16,7 @@ This module discusses econometrics methods and models that are appropriate for u
 
 **_Project_** - Compared different statistical models (ARIMA, GARCH, MSGARCH) and used forecasts to construct different portfolios (Equal Weight, Max Sharpe) which outperformed baseline S&P500, obtaining A for the module.
 
+## CS3230 - Design and Analysis of Algorithms
+
+This module introduces different techniques of designing and analysing algorithms. It covers lower and upper bounds, recurrences, basic algorithm paradigms (such as prune-and-search, dynamic programming, greedy, branch-and-bound, graph traversal, and randomised approaches), amortized analysis, NP-completeness, and some selected advanced topics.
+
