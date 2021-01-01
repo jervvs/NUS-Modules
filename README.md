@@ -7,6 +7,7 @@ Compilation of all labs, assignments and other coding I did during my SUSEP exch
 This module provided an introduction to the field of parallel computing with hands-on parallel programming experience on real parallel machines. This included everything from memory architecture, computation models and parallel performance.
 
 **_Assignment 1_** - Compared sequential implementation of longest common subsequence problem against parallel implementations (processes, threads and OMP).
+
 **_Assignment 2_** - Parallelised hash-based proof-of-work system using CUDA.
 
 ## QF5210 - Financial Time Series Theory and Computation
