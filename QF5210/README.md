@@ -5,7 +5,7 @@ statistical modelling frameworks, with focus on stochastic and regime switching
 volatility  models, impact the performance of an optimal portfolio allocation
 strategy for stocks of S&P500.
 
-# Data
+# Data (Not Uploaded Due to Space Issues)
 
 The data used in this project is located in `data/s&p500.rds` all of which is
 sourced from [Yahoo! Finance](https://finance.yahoo.com/) using the R library
