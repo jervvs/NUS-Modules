@@ -12,5 +12,7 @@ This module provided an introduction to the field of parallel computing with han
 
 ## QF5210 - Financial Time Series Theory and Computation
 
+This module discusses econometrics methods and models that are appropriate for understanding, analysing and solving financial problems. It provided hands-on experience with financial data and learn about regression analysis, time series analysis, multivariate statistical methods and their applications to capital asset pricing, volatility analysis and forecast, risk management and trading strategy.
+
 **_Project_** - Compared different statistical models (ARIMA, GARCH, MSGARCH) and used forecasts to construct different portfolios (Equal Weight, Max Sharpe) which outperformed baseline S&P500, obtaining A for the module.
 
